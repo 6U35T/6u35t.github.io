@@ -1,0 +1,24 @@
+{
+  "game": [
+    {
+      "order": 1,
+      "provider": "youtube",
+      "uid": "5qap5aO4i9A",
+      "title": "lofi hip hop radio"
+    },
+    {
+      "order": 2,
+      "provider": "twitch",
+      "uid": "lck",
+      "title": "LCK"
+    }
+  ],
+  "liveView": [
+    {
+      "order": 1,
+      "provider": "huya",
+      "uid": "25138274",
+      "title": "明日之后-杀意真的好难"
+    }
+  ]
+}
