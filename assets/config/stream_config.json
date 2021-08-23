@@ -1,0 +1,30 @@
+{
+  "game": [
+    {
+      "order": 10,
+      "provider": "huya",
+      "uid": "lpl",
+      "title": "LPL"
+    },
+    {
+      "order": 10,
+      "provider": "huya",
+      "uid": "lck",
+      "title": "LCK"
+    },
+    {
+      "order": 1,
+      "provider": "youtube",
+      "uid": "kLevo_wsJ7M",
+      "title": "LEC"
+    }
+  ],
+  "liveView": [
+    {
+      "order": 1,
+      "provider": "huya",
+      "uid": "alberttam",
+      "title": "AlbertTam"
+    }
+  ]
+}
