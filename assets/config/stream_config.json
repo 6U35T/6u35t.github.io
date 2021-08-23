@@ -7,13 +7,13 @@
       "title": "LPL"
     },
     {
-      "order": 10,
+      "order": 0,
       "provider": "huya",
       "uid": "lck",
       "title": "LCK"
     },
     {
-      "order": 0,
+      "order": 10,
       "provider": "youtube",
       "uid": "kLevo_wsJ7M",
       "title": "LEC"
