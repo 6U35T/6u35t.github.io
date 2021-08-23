@@ -1,7 +1,7 @@
 {
   "game": [
     {
-      "order": 10,
+      "order": 0,
       "provider": "huya",
       "uid": "lpl",
       "title": "LPL"
@@ -13,7 +13,7 @@
       "title": "LCK"
     },
     {
-      "order": 0,
+      "order": 10,
       "provider": "youtube",
       "uid": "kLevo_wsJ7M",
       "title": "LEC"
