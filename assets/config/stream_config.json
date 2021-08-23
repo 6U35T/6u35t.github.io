@@ -13,7 +13,7 @@
       "title": "LCK"
     },
     {
-      "order": 1,
+      "order": 0,
       "provider": "youtube",
       "uid": "kLevo_wsJ7M",
       "title": "LEC"
@@ -21,7 +21,7 @@
   ],
   "liveView": [
     {
-      "order": 1,
+      "order": 0,
       "provider": "huya",
       "uid": "alberttam",
       "title": "AlbertTam"
