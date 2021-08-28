@@ -1,13 +1,13 @@
 {
   "game": [
     {
-      "order": 0,
+      "order": 10,
       "provider": "huya",
       "uid": "lpl",
       "title": "LPL"
     },
     {
-      "order": 10,
+      "order": 0,
       "provider": "huya",
       "uid": "lck",
       "title": "LCK"
