@@ -15,13 +15,19 @@
     {
       "order": 0,
       "provider": "youtube",
-      "uid": "Ybnn_C2wyzg",
+      "uid": "kgfuSVqhb2g",
       "title": "LEC"
     }
   ],
   "liveView": [
     {
       "order": 0,
+      "provider": "bili",
+      "uid": "21496684",
+      "title": "Albert_Tan"
+    },
+    {
+      "order": 10,
       "provider": "huya",
       "uid": "alberttam",
       "title": "AlbertTam"
