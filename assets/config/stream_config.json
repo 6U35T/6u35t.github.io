@@ -2,7 +2,7 @@
   "game": [
     {
       "order": 0,
-      "provider": "Bilibili",
+      "provider": "bili",
       "uid": "6",
       "title": "Worlds"
     },
