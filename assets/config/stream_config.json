@@ -1,9 +1,9 @@
 {
   "game": [
     {
-      "order": 10,
-      "provider": "huya",
-      "uid": "s",
+      "order": 0,
+      "provider": "Bilibili",
+      "uid": "675058910f77de64a03e153c18c4aa3a_89DFEDF6-1EA4-4D74-B967-EDE8FC6C128D",
       "title": "Worlds"
     },
     {
@@ -13,7 +13,7 @@
       "title": "LCK"
     },
     {
-      "order": 0,
+      "order": 10,
       "provider": "youtube",
       "uid": "91S3KAm9K1c",
       "title": "LEC"
