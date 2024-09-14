@@ -1,13 +1,13 @@
 {
   "game": [
     {
-      "order": 0,
+      "order": 10,
       "provider": "bili",
       "uid": "7734200",
       "title": "MSI"
     },
     {
-      "order": 10,
+      "order": 0,
       "provider": "huya",
       "uid": "lck",
       "title": "LCK"
