@@ -3,11 +3,11 @@
     {
       "order": 10,
       "provider": "bili",
-      "uid": "7734200",
-      "title": "MSI"
+      "uid": "6",
+      "title": "Worlds"
     },
     {
-      "order": 0,
+      "order": 10,
       "provider": "huya",
       "uid": "rememberlol",
       "title": "LCK"
